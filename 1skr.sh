@@ -1,3 +1,5 @@
+#this is not 1 skript. see 1.sh file!!!!
+#це був тестовий файл. прошу дивитись файл 1.sh
 #!/bin/bash
 #touch Yur 
 mkdir -p ILENKOV
